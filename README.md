@@ -29,4 +29,5 @@ Python (Data Preparation & Analysis)
 📈 Outcome
 
 The dashboard provides clear visibility into AR health and highlights high-risk aging areas, helping support data-driven reviews and operational decision-making in healthcare RCM environments.
+
 Note: This project was developed purely for learning and portfolio demonstration purposes using synthetic data designed to closely resemble real-world US Healthcare RCM scenarios. No real patient, payer, or organizational data was used.
