@@ -2,6 +2,8 @@
 
 This project focuses on analyzing Claims Aging in US Healthcare Revenue Cycle Management (RCM) to understand where Accounts Receivable (AR) gets delayed and what factors contribute to aging risk.
 
+Power Bi Publish Link : https://app.powerbi.com/groups/me/reports/8d3c0237-e439-472a-9ea7-583a51e45161/ReportSection?experience=power-bi
+
 🎯 Project Objective
 
 To identify AR concentration across aging buckets and analyze how payer behavior, claim types, network status, denials, and partial payments impact payment timelines.
